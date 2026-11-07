@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>thorion</title>
+        <item>
+            <title>0.0.3</title>
+            <pubDate>Sat, 07 Nov 2026 09:10:48 +0700</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.8</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/cavaldos/Thorion/releases/download/v0.0.3/Thorion.dmg" length="3940132" type="application/octet-stream" sparkle:edSignature="+iPHJ6pekQqoWzhh9eiAkkm9EB7RHb3m/Apd9x0CElWsPmV5QnrNOPT8jLxMbZZw8peTX1nvwJ/IfGTl0HPiCg=="/>
+        </item>
+    </channel>
+</rss>

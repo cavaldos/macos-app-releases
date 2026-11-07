@@ -7,6 +7,7 @@ Each app has its own folder; the app's `SUFeedURL` points at its `appcast.xml`.
 | --- | --- |
 | [Ice](https://github.com/cavaldos/Ice) | https://cavaldos.github.io/macos-app-releases/ice/appcast.xml |
 | [Lumio](https://github.com/cavaldos/Lumio) | https://cavaldos.github.io/macos-app-releases/lumio/appcast.xml |
+| [Thorion](https://github.com/cavaldos/Thorion) | https://cavaldos.github.io/macos-app-releases/thorion/appcast.xml |
 
 Release CI writes these files. Don't edit them by hand.
 
