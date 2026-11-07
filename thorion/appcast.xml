@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.8</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/cavaldos/Thorion/releases/download/v0.0.3/Thorion.dmg" length="3940132" type="application/octet-stream" sparkle:edSignature="+iPHJ6pekQqoWzhh9eiAkkm9EB7RHb3m/Apd9x0CElWsPmV5QnrNOPT8jLxMbZZw8peTX1nvwJ/IfGTl0HPiCg=="/>
+            <enclosure url="https://github.com/cavaldos/Thorion/releases/download/v0.0.3/Thorion.dmg" length="3940123" type="application/octet-stream" sparkle:edSignature="BUtYSBIl2qLKVxfSN9dyLtXC0xi1nOlJ9j7pHro+I6KPuVB5L5bSNWzrb93fhAnGqZk6JQHy/2x/rIvELCJMCQ=="/>
         </item>
     </channel>
 </rss>
