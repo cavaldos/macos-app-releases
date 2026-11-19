@@ -3,6 +3,15 @@
     <channel>
         <title>Lumio</title>
         <item>
+            <title>0.0.10</title>
+            <pubDate>Thu, 19 Nov 2026 10:32:28 +0000</pubDate>
+            <sparkle:version>0.0.10</sparkle:version>
+            <sparkle:shortVersionString>0.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/cavaldos/Lumio/releases/download/v0.0.10/Lumio.dmg" length="5858390" type="application/octet-stream" sparkle:edSignature="HoDuP1p9Kjwo4NKE49DIFutuMgQ1+zWIUsZIPgTFAXIE2yG28+5umfUdGUIG1PRvQ/M6eeQk/faHRWVjbQ0jBQ=="/>
+        </item>
+        <item>
             <title>0.0.9</title>
             <pubDate>Thu, 19 Nov 2026 09:33:41 +0000</pubDate>
             <sparkle:version>0.0.9</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/cavaldos/Lumio/releases/download/v0.0.8/Lumio.dmg" length="5848265" type="application/octet-stream" sparkle:edSignature="zdBWMV5z8SotxkH+vA0JEApeHGnY5yfgI3j57OQ/BNHglgnX7XwcTuQ6JaZRFnBrztxMHiSspx1XAUy20+xRCA=="/>
-        </item>
-        <item>
-            <title>0.0.7</title>
-            <pubDate>Sat, 14 Nov 2026 03:41:17 +0000</pubDate>
-            <sparkle:version>0.0.7</sparkle:version>
-            <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/cavaldos/Lumio/releases/download/v0.0.7/Lumio.dmg" length="5826231" type="application/octet-stream" sparkle:edSignature="pLjZagAFan6c8YMS8B216EqT5LoRHCeYDTzdYvpP4dqDnFKiDjnpT96TJZIdg/lSKrlCD4TejA75S//7kg96DA=="/>
         </item>
     </channel>
 </rss>
