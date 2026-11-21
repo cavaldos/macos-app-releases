@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/cavaldos/Lumio/releases/download/v0.0.11/Lumio.dmg" length="6642926" type="application/octet-stream" sparkle:edSignature="157heYxGISIQGZNB7GfmZpVLWAjpYgcKP0jVeoCTBArd9ZRrTTZgNyc05MH66KQj+E/wlbcO/KFnHnhI6kIkDA=="/>
+            <enclosure url="https://github.com/cavaldos/Lumio/releases/download/v0.0.11/Lumio.dmg" length="6652073" type="application/octet-stream" sparkle:edSignature="c7GLn59BvLD30XiMr/g2+u9stvfW+pisxpo6RWWdH26Zp4SrirftbbMFTjG7VC+ymhNp7CCWmzZRJkUOZIauCg=="/>
         </item>
         <item>
             <title>0.0.10</title>
